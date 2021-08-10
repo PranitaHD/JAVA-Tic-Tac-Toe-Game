@@ -1,0 +1,2 @@
+# JAVA-Tic-Tac-Toe-Game
+Language :- Java Programming. We all have played Tic Tac Toe game in our school days with our friends on books or paper. Same as that here you will be playing this game in a computer with your partner. You have to click any block to occupy that place. Until the end you will be doing the same and at the end the winner's name will be announced. Here their are already fixed names as "X" &amp; "O". I have used NetBeans IDE here.
